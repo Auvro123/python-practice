@@ -3,4 +3,4 @@ def celsius_to_fahrenheit(c):
 
 celsius=int(input('enter a input in celsius: '))
 fahrenheit=celsius_to_fahrenheit(celsius)
-print(fahrenheit)
+print(fahrenheit    )
